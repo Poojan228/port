@@ -1,0 +1,1528 @@
+    @media (max-width:1250px) {
+        .navbar {
+            height: 29rem;
+        }
+        nav ul li a {
+            font-size: 1.8rem;
+            margin: 2.6rem;
+            padding: 0rem 1.85rem;
+        }
+        nav ul li a::before {
+            width: 0.45rem;
+            height: 0.45rem;
+            border-top: 0.15rem solid white;
+            border-left: 0.15rem solid white;
+        }
+        nav ul li a::after {
+            width: 0.45rem;
+            height: 0.45rem;
+            border-bottom: 0.15rem solid white;
+            border-right: 0.15rem solid white;
+        }
+        #heading {
+            font-size: 5.65rem;
+            text-shadow: 0.29rem 0.29rem 0.38rem black;
+            margin-top: 1.6rem;
+        }
+        #navpara {
+            text-shadow: 0.29rem 0.29rem 0.38rem black;
+            font-size: 2.2rem;
+            word-spacing: 0.19rem;
+        }
+        #mylogo {
+            height: 7.2rem;
+            width: 7.2rem;
+            border: 0.22rem solid purple;
+            box-shadow: 0.24rem 0.24rem 0.19rem purple;
+        }
+        #mylogo:hover {
+            height: 7.4rem;
+            width: 7.4rem;
+            border: 0.23rem solid blue;
+            box-shadow: 0.28rem 0.28rem 0.4rem blue;
+        }
+        #line {
+            height: 0.07rem;
+        }
+        #mid-section {
+            margin-top: 4.65rem;
+        }
+        #f1-img {
+            margin-top: 1.8rem;
+            width: 26rem;
+            height: 16rem;
+            border: 0.1rem solid purple;
+            margin-left: 4.1rem;
+            border-radius: 1.9rem;
+            box-shadow: 0.15rem 0.15rem 0.35rem black;
+        }
+        #f1-img:hover {
+            width: 27rem;
+            height: 15.4rem;
+            border: 0.1rem solid purple;
+            box-shadow: 0.2rem 0.2rem 0.55rem purple;
+        }
+        .word:hover {
+            font-size: 2rem;
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.1rem;
+        }
+        #f1-para {
+            letter-spacing: 0.095rem;
+            word-spacing: 0.65rem;
+            /* margin-top: 1.5rem; */
+            width: 35rem;
+            font-size: 1.9rem;
+            margin-left: 7rem;
+            margin-right: 1rem;
+        }
+        #f1-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.1rem;
+            font-size: 1.93rem;
+            text-shadow: 0.045rem 0.045rem 0.06rem black;
+        }
+        #sec-2 {
+            margin-top: 3.6rem;
+        }
+        #f2-para {
+            letter-spacing: 0.095rem;
+            word-spacing: 0.65rem;
+            /* margin-top:rem; */
+            /* margin-left: 2rem; */
+            width: 35rem;
+            font-size: 1.9rem;
+            height: 20rem;
+            margin-top: 1rem;
+        }
+        #f2-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.1rem;
+            font-size: 1.93rem;
+            text-shadow: 0.045rem 0.045rem 0.06rem black;
+        }
+        #f2-img {
+            width: 26rem;
+            height: 16rem;
+            border: 0.1rem solid purple;
+            background-color: #adeefa;
+            margin-right: 1rem;
+            margin-left: 4rem;
+            border-radius: 1.9rem;
+            box-shadow: 0.15rem 0.15rem 0.35rem black;
+        }
+        #f2-img:hover {
+            width: 27rem;
+            height: 15.4rem;
+            box-shadow: 0.2rem 0.2rem 0.55rem purple;
+        }
+        #sec-3 {
+            margin-top: -2rem;
+        }
+        #f3-img {
+            margin-top: 1.8rem;
+            width: 26rem;
+            height: 16rem;
+            border: 0.1rem solid purple;
+            margin-left: 4.1rem;
+            border-radius: 1.9rem;
+            box-shadow: 0.15rem 0.15rem 0.35rem black;
+        }
+        #f3-img:hover {
+            width: 27rem;
+            height: 15.4rem;
+            border: 0.1rem solid purple;
+            box-shadow: 0.2rem 0.2rem 0.55rem purple;
+        }
+        #f3-para {
+            letter-spacing: 0.095rem;
+            word-spacing: 0.65rem;
+            /* margin-top: 1.5rem; */
+            width: 35rem;
+            font-size: 1.9rem;
+            margin-left: 7rem;
+            margin-right: 1rem;
+        }
+        #f3-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.1rem;
+            font-size: 1.93rem;
+            text-shadow: 0.045rem 0.045rem 0.06rem black;
+        }
+        #sec-4 {
+            margin-top: 3.5rem;
+        }
+        #f4-para {
+            letter-spacing: 0.095rem;
+            word-spacing: 0.65rem;
+            width: 35rem;
+            font-size: 1.9rem;
+            height: 20rem;
+            margin-top: 1rem;
+            margin-left: 0rem;
+        }
+        #f4-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.1rem;
+            font-size: 1.93rem;
+            text-shadow: 0.045rem 0.045rem 0.06rem black;
+        }
+        #f4-img {
+            width: 26rem;
+            height: 16rem;
+            border: 0.1rem solid purple;
+            background-color: #adeefa;
+            margin-right: 1rem;
+            margin-left: 4rem;
+            border-radius: 1.9rem;
+            box-shadow: 0.15rem 0.15rem 0.35rem black;
+        }
+        #f4-img:hover {
+            width: 25rem;
+            height: 15.4rem;
+            box-shadow: 0.2rem 0.2rem 0.55rem purple;
+        }
+        #footer-line {
+            margin-top: 0rem;
+        }
+        #my-icons {
+            font-size: 2.1rem;
+        }
+        #ins {
+            margin-top: 1.6rem;
+            border-radius: 0.6rem;
+        }
+        #ins:hover {
+            font-size: 2.3rem;
+        }
+        #snap {
+            margin-top: 1.6rem;
+            border-radius: 0.6rem;
+        }
+        #snap:hover {
+            font-size: 2.3rem;
+        }
+        #footer-para {
+            font-size: 1.4rem;
+        }
+    }
+    
+    @media (max-width:950px) {
+        .navbar {
+            height: 28rem;
+        }
+        nav ul li a {
+            font-size: 1.7rem;
+            margin: 2.5rem;
+            padding: 0rem 1.75rem;
+        }
+        nav ul li a::before {
+            width: 0.4rem;
+            height: 0.4rem;
+            border-top: 0.15rem solid white;
+            border-left: 0.15rem solid white;
+        }
+        nav ul li a::after {
+            width: 0.4rem;
+            height: 0.4rem;
+            border-bottom: 0.15rem solid white;
+            border-right: 0.15rem solid white;
+        }
+        nav ul li a:hover {
+            box-shadow: 0rem 0rem 1rem white;
+            text-shadow: 0.04rem 0.04rem 0.1rem black;
+            font-size: 1.75rem;
+        }
+        #heading {
+            font-size: 5.5rem;
+            text-shadow: 0.28rem 0.28rem 0.37rem black;
+            margin-top: 1.6rem;
+        }
+        #navpara {
+            text-shadow: 0.28rem 0.28rem 0.37rem black;
+            font-size: 2.1rem;
+            word-spacing: 0.18rem;
+        }
+        #mylogo {
+            height: 7rem;
+            width: 7rem;
+            border: 0.19rem solid purple;
+            box-shadow: 0.23rem 0.23rem 0.18rem purple;
+        }
+        #mylogo:hover {
+            height: 7.2rem;
+            width: 7.2rem;
+            border: 0.21rem solid blue;
+            box-shadow: 0.27rem 0.27rem 0.4rem blue;
+        }
+        #line {
+            height: 0.06rem;
+        }
+        #mid-section {
+            margin-top: 4.5rem;
+        }
+        #f1-img {
+            margin-top: 1.8rem;
+            width: 23rem;
+            height: 14rem;
+            border: 0.1rem solid purple;
+            margin-left: 3.3rem;
+            border-radius: 1.9rem;
+            transition: 0.5s;
+            box-shadow: 0.15rem 0.15rem 0.35rem black;
+        }
+        #f1-img:hover {
+            width: 24rem;
+            height: 14.4rem;
+            border: 0.1rem solid purple;
+            box-shadow: 0.2rem 0.2rem 0.55rem purple;
+        }
+        .word:hover {
+            font-size: 1.8rem;
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.1rem;
+            transition: 0.5s;
+        }
+        #f1-para {
+            letter-spacing: 0.09rem;
+            word-spacing: 0.6rem;
+            /* margin-top: 1.5rem; */
+            width: 28rem;
+            font-size: 1.7rem;
+            margin-left: 4rem;
+            margin-right: 1rem;
+        }
+        #f1-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.1rem;
+            font-size: 1.73rem;
+            text-shadow: 0.04rem 0.04rem 0.05rem black;
+        }
+        #sec-2 {
+            margin-top: 3rem;
+        }
+        #f2-para {
+            letter-spacing: 0.09rem;
+            word-spacing: 0.6rem;
+            /* margin-top:rem; */
+            margin-left: 2rem;
+            width: 28rem;
+            font-size: 1.7rem;
+            height: 20rem;
+            margin-top: 0rem;
+        }
+        #f2-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.1rem;
+            font-size: 1.73rem;
+            /* transition: 0.5s; */
+            text-shadow: 0.04rem 0.04rem 0.04rem black;
+        }
+        #f2-img {
+            width: 23rem;
+            height: 14rem;
+            border: 2px solid purple;
+            background-color: #adeefa;
+            margin-right: 2rem;
+            margin-left: 4rem;
+            border-radius: 1.9rem;
+            box-shadow: 2.3px 2.3px 5px black;
+        }
+        #f2-img:hover {
+            width: 24rem;
+            height: 14.4rem;
+            box-shadow: 0.2rem 0.2rem 0.55rem purple;
+        }
+        #sec-3 {
+            margin-top: -2rem;
+        }
+        #f3-img {
+            margin-top: 1.8rem;
+            width: 23rem;
+            height: 14rem;
+            border: 0.1rem solid purple;
+            margin-left: 3.3rem;
+            border-radius: 1.9rem;
+            box-shadow: 0.15rem 0.15rem 0.35rem black;
+            margin-right: 0rem;
+        }
+        #f3-img:hover {
+            width: 24rem;
+            height: 14.4rem;
+            border: 0.1rem solid purple;
+            box-shadow: 0.2rem 0.2rem 0.55rem purple;
+        }
+        #f3-para {
+            letter-spacing: 0.09rem;
+            word-spacing: 0.6rem;
+            width: 28rem;
+            font-size: 1.7rem;
+            margin-left: 4rem;
+            margin-right: 1rem;
+        }
+        #f3-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.1rem;
+            font-size: 1.73rem;
+            text-shadow: 0.04rem 0.04rem 0.05rem black;
+        }
+        #sec-4 {
+            margin-top: 5rem;
+        }
+        #f4-para {
+            letter-spacing: 0.09rem;
+            word-spacing: 0.6rem;
+            margin-left: 2rem;
+            width: 28rem;
+            font-size: 1.7rem;
+        }
+        #f4-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.1rem;
+            font-size: 1.73rem;
+            text-shadow: 0.04rem 0.04rem 0.04rem black;
+        }
+        #f4-img {
+            width: 23rem;
+            height: 14rem;
+            border: 2px solid purple;
+            background-color: #adeefa;
+            margin-right: 2rem;
+            margin-left: 4rem;
+            border-radius: 1.9rem;
+            box-shadow: 2.3px 2.3px 5px black;
+        }
+        #f-img:hover {
+            width: 24rem;
+            height: 14.4rem;
+            box-shadow: 0.2rem 0.2rem 0.55rem purple;
+        }
+        #footer-line {
+            margin-top: 0rem;
+        }
+        #my-icons {
+            font-size: 2.3rem;
+        }
+        #ins {
+            margin-top: 1.8rem;
+            border-radius: 0.6rem;
+        }
+        #ins:hover {
+            font-size: 2.5rem;
+        }
+        #snap {
+            margin-top: 1.8rem;
+            border-radius: 0.6rem;
+        }
+        #snap:hover {
+            font-size: 2.5rem;
+        }
+        #footer-para {
+            /* margin-top: 1rem; */
+            display: flex;
+            font-size: 1.4rem;
+        }
+    }
+    
+    @media (max-width: 800px) {
+        body {
+            background: url(Images/Body-bg.png);
+            background-blend-mode: multiply;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: 0rem, 30rem;
+        }
+        .navbar {
+            background-color: rgb(158, 157, 255);
+            background-image: url(Images/Header-bg.png );
+            width: 100%;
+            background-blend-mode: multiply;
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 21.5rem;
+        }
+        nav ul li a {
+            font-size: 1.5rem;
+            margin: 2.2rem;
+            padding: 0rem 1.55rem;
+        }
+        nav ul li a::before {
+            width: 0.3rem;
+            height: 0.3rem;
+            border-top: 0.12rem solid white;
+            border-left: 0.12rem solid white;
+        }
+        nav ul li a::after {
+            width: 0.3rem;
+            height: 0.3rem;
+            border-bottom: 0.12rem solid white;
+            border-right: 0.12rem solid white;
+        }
+        nav ul li a:hover {
+            font-size: 1.6rem;
+        }
+        #heading {
+            font-size: 4rem;
+            text-shadow: 0.28rem 0.28rem 0.37rem black;
+            margin-top: 0.7rem;
+        }
+        #navpara {
+            text-shadow: 0.22rem 0.22rem 0.37rem black;
+            font-size: 1.65rem;
+            word-spacing: 0.16rem;
+            width: 35rem;
+        }
+        #mylogo {
+            /* margin-top: 0rem; */
+            height: 6rem;
+            width: 6rem;
+            border: 0.15rem solid purple;
+            box-shadow: 0.2rem 0.2rem 0.14rem purple;
+        }
+        #mylogo:hover {
+            height: 6.2rem;
+            width: 6.2rem;
+            border: 0.17rem solid blue;
+            box-shadow: 0.23rem 0.23rem 0.18rem blue;
+        }
+        #line {
+            height: 0.06rem;
+        }
+        #mid-section {
+            margin-top: 3rem;
+        }
+        #f1-img {
+            margin-top: 1.5rem;
+            width: 20rem;
+            height: 11.5rem;
+            border: 0.09rem solid purple;
+            margin-left: 3rem;
+            border-radius: 1.7rem;
+            box-shadow: 0.12rem 0.12rem 0.3rem black;
+        }
+        #f1-img:hover {
+            width: 22rem;
+            height: 12.2rem;
+            border: 0.1rem solid purple;
+            box-shadow: 0.15rem 0.15rem 0.35rem purple;
+        }
+        .word:hover {
+            font-size: 1.45rem;
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.0.8rem;
+            transition: 0.5s;
+        }
+        #f1-para {
+            letter-spacing: 0.05rem;
+            word-spacing: 0.4rem;
+            width: 26rem;
+            font-size: 1.4rem;
+            margin-left: 2rem;
+            margin-right: 1rem;
+            align-items: center;
+        }
+        #f1-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.08rem;
+            font-size: 1.45rem;
+            text-shadow: 0.02rem 0.02rem 0.04rem black;
+        }
+        #sec-2 {
+            margin-top: 2rem;
+        }
+        #f2-para {
+            letter-spacing: 0.05rem;
+            word-spacing: 0.4rem;
+            margin-left: 2rem;
+            width: 28rem;
+            font-size: 1.4rem;
+            height: 18rem;
+            margin-top: 1rem;
+        }
+        #f2-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.08rem;
+            font-size: 1.45rem;
+            /* transition: 0.5s; */
+            text-shadow: 0.02rem 0.02rem 0.04rem black;
+        }
+        #f2-img {
+            width: 23rem;
+            height: 11.5rem;
+            border: 0.09rem solid purple;
+            background-color: #adeefa;
+            margin-right: 2rem;
+            margin-left: 4rem;
+            border-radius: 1.7rem;
+            box-shadow: 0.12rem 0.12rem 0.3rem black;
+        }
+        #f2-img:hover {
+            width: 24rem;
+            height: 11.8rem;
+            box-shadow: 0.2rem 0.2rem 0.55rem purple;
+        }
+        #sec-3 {
+            margin-top: -5rem;
+        }
+        #f3-img {
+            margin-top: 1.5rem;
+            width: 20rem;
+            height: 11.5rem;
+            border: 0.09rem solid purple;
+            margin-left: 3rem;
+            border-radius: 1.7rem;
+            box-shadow: 0.12rem 0.12rem 0.3rem black;
+        }
+        #f3-img:hover {
+            width: 22rem;
+            height: 12.2rem;
+            border: 0.1rem solid purple;
+            box-shadow: 0.15rem 0.15rem 0.35rem purple;
+        }
+        #f3-para {
+            letter-spacing: 0.05rem;
+            word-spacing: 0.4rem;
+            width: 26rem;
+            font-size: 1.4rem;
+            margin-left: 2rem;
+            margin-right: 1rem;
+            align-items: center;
+        }
+        #f3-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.08rem;
+            font-size: 1.45rem;
+            text-shadow: 0.02rem 0.02rem 0.04rem black;
+        }
+        #sec-4 {
+            margin-top: 3rem;
+        }
+        #f4-para {
+            letter-spacing: 0.05rem;
+            word-spacing: 0.4rem;
+            margin-left: 2rem;
+            width: 28rem;
+            font-size: 1.4rem;
+            height: 18rem;
+            margin-top: 1rem;
+        }
+        #f4-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.08rem;
+            font-size: 1.45rem;
+            /* transition: 0.5s; */
+            text-shadow: 0.02rem 0.02rem 0.04rem black;
+        }
+        #f4-img {
+            width: 23rem;
+            height: 11.5rem;
+            border: 0.09rem solid purple;
+            background-color: #adeefa;
+            margin-right: 2rem;
+            margin-left: 4rem;
+            border-radius: 1.7rem;
+            box-shadow: 0.12rem 0.12rem 0.3rem black;
+        }
+        #f4-img:hover {
+            width: 24rem;
+            height: 11.8rem;
+            box-shadow: 0.2rem 0.2rem 0.55rem purple;
+        }
+        #footer-line {
+            margin-top: -3rem;
+        }
+        #my-icons {
+            font-size: 2rem;
+        }
+        #ins {
+            margin-top: 1.5rem;
+            border-radius: 0.6rem;
+        }
+        #ins:hover {
+            font-size: 2.2rem;
+        }
+        #snap {
+            margin-top: 1.5rem;
+            border-radius: 0.6rem;
+        }
+        #snap:hover {
+            font-size: 2.2rem;
+        }
+        #footer-para {
+            margin-top: 0rem;
+            font-size: 1.1rem;
+        }
+    }
+    
+    @media(max-width:700px) {
+        .navbar {
+            height: 18.5rem;
+        }
+        .nav-features {
+            position: absolute;
+            height: 18.5rem;
+            display: block;
+            margin-top: 0rem;
+            margin-left: -1.5rem;
+            border-radius: 1rem;
+            background-color: rgba(255, 255, 255, 0.1);
+            box-shadow: 0.01rem 0.01rem 0.3rem black;
+        }
+        nav ul li {
+            margin: 0;
+            width: 7rem;
+            text-decoration: underline;
+            text-decoration-thickness: 0.05rem;
+        }
+        nav ul li a::before {
+            position: static;
+            content: '';
+            top: 0;
+            left: 0;
+            width: 0;
+            height: 0;
+            border-top: 0;
+            border-left: 0;
+            transition: 0.5s;
+        }
+        nav ul li a::after {
+            position: static;
+            content: '';
+            bottom: 0;
+            right: 0;
+            width: 0rem;
+            height: 0rem;
+            border-bottom: 0rem solid white;
+            border-right: 0rem solid white;
+            transition: 0.5s;
+        }
+        nav ul li {
+            margin-top: 2rem;
+        }
+        nav ul li a {
+            position: relative;
+            align-items: center;
+            justify-content: center;
+            margin: 2.1rem;
+            padding: 0rem 0.5rem;
+            transition: 0.5s;
+            border-radius: 2rem;
+            margin-left: 1.5rem;
+        }
+        #text {
+            /* margin-right: -1rem; */
+            margin-top: 0rem;
+            position: relative;
+            margin-left: 11rem;
+            width: 24rem;
+        }
+        #heading {
+            margin-top: 2rem;
+            font-size: 3rem;
+            text-align: center;
+            width: 23rem;
+        }
+        #navpara {
+            font-size: 1.4rem;
+            margin-top: 1rem;
+            width: 23rem;
+        }
+        #mylogo {
+            margin-top: 1.7rem;
+            height: 5.9rem;
+            width: 5.9rem;
+        }
+        #mylogo:hover {
+            margin-top: 1rem;
+            height: 5.9rem;
+            width: 5.9rem;
+            border: 0.1rem solid blue;
+            box-shadow: 0.23rem 0.23rem 0.18rem blue;
+        }
+        #mid-section {
+            margin-top: 3rem;
+        }
+        #f1-img {
+            margin-top: 1rem;
+            width: 20rem;
+            height: 10.5rem;
+            border: 0.09rem solid purple;
+            margin-left: 1rem;
+            border-radius: 1.7rem;
+            box-shadow: 0.12rem 0.12rem 0.3rem black;
+        }
+        #f1-img:hover {
+            width: 21rem;
+            height: 11rem;
+            border: 0.1rem solid purple;
+            box-shadow: 0.15rem 0.15rem 0.35rem purple;
+        }
+        #f1-para {
+            letter-spacing: 0.04rem;
+            word-spacing: 0.3rem;
+            width: 27rem;
+            font-size: 1.3rem;
+            margin-left: 1rem;
+            margin-right: 0;
+            align-items: center;
+        }
+        #f1-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.08rem;
+            font-size: 1.33rem;
+            text-shadow: 0.02rem 0.02rem 0.04rem black;
+        }
+        #sec-2 {
+            margin-top: 2rem;
+        }
+        #f2-para {
+            letter-spacing: 0.04rem;
+            word-spacing: 0.3rem;
+            margin-left: 1rem;
+            width: 29rem;
+            font-size: 1.3rem;
+            /* margin-right: 1rem; */
+            margin-top: 0;
+            margin-right: -2rem;
+        }
+        #f2-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.08rem;
+            font-size: 1.33rem;
+            text-shadow: 0.02rem 0.02rem 0.04rem black;
+        }
+        #f2-img {
+            margin-right: 1rem;
+            width: 20rem;
+            height: 10.5rem;
+            border: 0.09rem solid purple;
+            background-color: #adeefa;
+            border-radius: 1.7rem;
+            box-shadow: 0.12rem 0.12rem 0.3rem black;
+        }
+        #f2-img:hover {
+            width: 24rem;
+            height: 11.8rem;
+            box-shadow: 0.2rem 0.2rem 0.55rem purple;
+        }
+        #sec-3 {
+            margin-top: -5rem;
+        }
+        #f3-img {
+            margin-top: 1rem;
+            width: 15.5rem;
+            height: 10.5rem;
+            border: 0.09rem solid purple;
+            margin-left: 1rem;
+            border-radius: 1.7rem;
+            box-shadow: 0.12rem 0.12rem 0.3rem black;
+        }
+        #f3-img:hover {
+            width: 21rem;
+            height: 11rem;
+            border: 0.1rem solid purple;
+            box-shadow: 0.15rem 0.15rem 0.35rem purple;
+        }
+        #f3-para {
+            letter-spacing: 0.04rem;
+            word-spacing: 0.3rem;
+            width: 30rem;
+            font-size: 1.3rem;
+            font-size: 1.3rem;
+            margin-left: 1rem;
+            align-items: center;
+            margin-right: 0;
+        }
+        #f3-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.08rem;
+            font-size: 1.33rem;
+            text-shadow: 0.02rem 0.02rem 0.04rem black;
+        }
+        #sec-4 {
+            margin-top: 3rem;
+        }
+        #f4-para {
+            letter-spacing: 0.04rem;
+            word-spacing: 0.3rem;
+            margin-left: 1rem;
+            width: 29rem;
+            font-size: 1.3rem;
+            margin-right: -2rem;
+            margin-top: 0;
+        }
+        #f4-para:hover {
+            text-decoration-line: underline;
+            text-decoration-thickness: 0.08rem;
+            font-size: 1.33rem;
+            text-shadow: 0.02rem 0.02rem 0.04rem black;
+        }
+        #f4-img {
+            margin-right: 1rem;
+            width: 20rem;
+            height: 10.5rem;
+            border: 0.09rem solid purple;
+            background-color: #adeefa;
+            border-radius: 1.7rem;
+            box-shadow: 0.12rem 0.12rem 0.3rem black;
+        }
+        #f4-img:hover {
+            width: 24rem;
+            height: 11.8rem;
+            box-shadow: 0.2rem 0.2rem 0.55rem purple;
+        }
+        #footer-line {
+            margin-top: -2rem;
+            background-color: blue;
+            height: 0.007rem;
+        }
+        #my-icons {
+            font-size: 2.6rem;
+        }
+        #ins:hover {
+            font-size: 2.7rem;
+        }
+        #snap:hover {
+            font-size: 2.7rem;
+        }
+        #footer-para {
+            font-size: 1.3rem;
+        }
+    }
+    
+    @media (max-width:630px) {
+        #text {
+            margin-left: 9.7rem;
+        }
+    }
+    
+    @media(max-width:580px) {
+        .navbar {
+            height: 19.8rem;
+        }
+        .nav-features {
+            height: 19.8rem;
+        }
+        nav ul li {
+            margin-top: 2.2rem;
+        }
+        #text {
+            margin-left: 9rem;
+        }
+        #heading {
+            font-size: 3.8rem;
+        }
+        #sec1 {
+            display: inline-block;
+        }
+        #f1-img {
+            margin-left: 1.5rem;
+            width: 32rem;
+            height: 15rem;
+        }
+        #f1-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 32.5rem;
+            height: 15.2rem;
+        }
+        #f1-para {
+            font-size: 1.6rem;
+            width: 32rem;
+            margin-left: 1.5rem;
+            text-align: left;
+        }
+        #f1-para:hover {
+            font-size: 1.65rem;
+        }
+        #sec-2 {
+            display: inline-block;
+        }
+        #f2-para {
+            font-size: 1.6rem;
+            /* display: inline-block; */
+            width: 32rem;
+            margin-left: 1.5rem;
+            text-align: left;
+            height: 11rem;
+        }
+        #f2-para:hover {
+            font-size: 1.65rem;
+        }
+        #f2-img {
+            /* display: inline-block; */
+            /* margin-top: -5rem; */
+            margin-left: 1.5rem;
+            width: 32rem;
+            height: 15rem;
+        }
+        #f2-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 32.5rem;
+            height: 15.2rem;
+        }
+        #sec-3 {
+            margin-top: 1.5rem;
+            display: block;
+        }
+        #f3-img {
+            margin-left: 1.5rem;
+            width: 32rem;
+            height: 15rem;
+        }
+        #f3-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 32.5rem;
+            height: 15.2rem;
+        }
+        #f3-para {
+            font-size: 1.6rem;
+            width: 32rem;
+            margin-left: 1.5rem;
+            text-align: left;
+        }
+        #f3-para:hover {
+            font-size: 1.65rem;
+        }
+        #sec-4 {
+            display: inline-block;
+        }
+        #f4-para {
+            font-size: 1.6rem;
+            /* display: inline-block; */
+            width: 32rem;
+            margin-left: 1.5rem;
+            text-align: left;
+            height: 11rem;
+        }
+        #f4-para:hover {
+            font-size: 1.65rem;
+        }
+        #f4-img {
+            /* display: inline-block; */
+            /* margin-top: -5rem; */
+            margin-left: 1.5rem;
+            width: 32rem;
+            height: 15rem;
+        }
+        #f4-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 32.5rem;
+            height: 15.2rem;
+        }
+        #footer-line {
+            margin-top: 2.5rem;
+        }
+    }
+    
+    @media(max-width:565px) {
+        #text {
+            margin-left: 6.8rem;
+        }
+        #f1-img {
+            margin-left: 1rem;
+            width: 30rem;
+            height: 14.5rem;
+        }
+        #f1-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 30.5rem;
+            height: 15rem;
+        }
+        #f1-para {
+            font-size: 1.6rem;
+            width: 30rem;
+            height: 14.5rem;
+            margin-left: 1.5rem;
+            text-align: left;
+        }
+        #f1-para:hover {
+            font-size: 1.65rem;
+        }
+        #sec-2 {
+            display: inline-block;
+        }
+        #f2-para {
+            font-size: 1.6rem;
+            /* display: inline-block; */
+            width: 30rem;
+            height: 14.5rem;
+            margin-left: 1.0rem;
+            text-align: left;
+            height: 11rem;
+        }
+        #f2-para:hover {
+            font-size: 1.65rem;
+        }
+        #f2-img {
+            /* display: inline-block; */
+            /* margin-top: -5rem; */
+            margin-left: 1.5rem;
+            width: 30rem;
+            height: 14.5rem;
+        }
+        #f2-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 30.5rem;
+            height: 14.5rem;
+        }
+        #sec-3 {
+            margin-top: 1.5rem;
+            display: block;
+        }
+        #f3-img {
+            margin-left: 1rem;
+            width: 30rem;
+            height: 14.5rem;
+        }
+        #f3-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 30.5rem;
+            height: 14.5rem;
+        }
+        #f3-para {
+            font-size: 1.6rem;
+            width: 30rem;
+            margin-left: 1.5rem;
+            text-align: left;
+        }
+        #f3-para:hover {
+            font-size: 1.65rem;
+        }
+        #sec-4 {
+            display: inline-block;
+        }
+        #f4-para {
+            font-size: 1.6rem;
+            /* display: inline-block; */
+            width: 30rem;
+            margin-left: 1.5rem;
+            text-align: left;
+            height: 14.5rem;
+            width: 30rem;
+        }
+        #f4-para:hover {
+            font-size: 1.65rem;
+        }
+        #f4-img {
+            /* display: inline-block; */
+            /* margin-top: -5rem; */
+            margin-left: 1.5rem;
+            width: 30rem;
+            height: 14.5rem;
+        }
+        #f4-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 30.5rem;
+            height: 15.2rem;
+        }
+        #footer-line {
+            margin-top: 2.5rem;
+        }
+        #my-icons {
+            font-size: 2rem;
+        }
+        #footer-para {
+            font-size: 1rem;
+        }
+    }
+    
+    @media (max-width:530px) {
+        .navbar {
+            height: 15.5rem;
+        }
+        .nav-features {
+            width: 6rem;
+            height: 15.5rem;
+        }
+        nav ul li a {
+            margin-left: 1.2rem;
+            font-size: 1.3rem;
+        }
+        nav ul li {
+            margin-top: 2rem;
+        }
+        nav ul li a:hover {
+            font-size: 1.35rem;
+        }
+        #heading {
+            font-size: 2.8rem;
+            margin-top: 0;
+            width: 20rem;
+            margin-left: 0rem;
+        }
+        #navpara {
+            margin-left: 0rem;
+            width: 20rem;
+            font-size: 1.2rem;
+        }
+        #f1-img {
+            margin-left: 1rem;
+            width: 25rem;
+            height: 13.5rem;
+        }
+        #f1-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 25.5rem;
+            height: 13.7rem;
+        }
+        #f1-para {
+            font-size: 1.4rem;
+            width: 25rem;
+            height: 13.5rem;
+            margin-left: 1rem;
+            text-align: left;
+        }
+        #f1-para:hover {
+            font-size: 1.45rem;
+        }
+        #sec-2 {
+            display: inline-block;
+        }
+        #f2-para {
+            font-size: 1.4rem;
+            /* display: inline-block; */
+            width: 25rem;
+            height: 13.5rem;
+            margin-left: 0.5rem;
+            text-align: left;
+            height: 10rem;
+        }
+        #f2-para:hover {
+            font-size: 1.45rem;
+        }
+        #f2-img {
+            /* display: inline-block; */
+            /* margin-top: -5rem; */
+            margin-left: 1rem;
+            width: 25rem;
+            height: 13.5rem;
+        }
+        #f2-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 25.5rem;
+            height: 13.5rem;
+        }
+        #sec-3 {
+            margin-top: 1.5rem;
+            display: block;
+        }
+        #f3-img {
+            margin-left: 0.5rem;
+            width: 25rem;
+            height: 13.5rem;
+        }
+        #f3-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 25.5rem;
+            height: 13.7rem;
+        }
+        #f3-para {
+            font-size: 1.45rem;
+            width: 25rem;
+            margin-left: 1.5rem;
+            text-align: left;
+        }
+        #f3-para:hover {
+            font-size: 1.45rem;
+        }
+        #sec-4 {
+            display: inline-block;
+        }
+        #f4-para {
+            font-size: 1.45rem;
+            /* display: inline-block; */
+            width: 25rem;
+            margin-left: 1rem;
+            text-align: left;
+            height: 13.5rem;
+            /* width: 30rem; */
+        }
+        #f4-para:hover {
+            font-size: 1.45rem;
+        }
+        #f4-img {
+            /* display: inline-block; */
+            /* margin-top: -5rem; */
+            margin-left: 1rem;
+            width: 25rem;
+            height: 13.5rem;
+        }
+        #f4-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 25.5rem;
+            height: 13.5rem;
+        }
+    }
+    
+    @media (max-width:500px) {
+        #heading {
+            font-size: 2.5rem;
+        }
+        #navpara {
+            margin-top: 0rem;
+        }
+        #mylogo {
+            margin-top: 1.2rem;
+        }
+        #text {
+            width: 16rem;
+        }
+        #navpara {
+            width: 16rem;
+        }
+    }
+    
+    @media(max-width:445px) {
+        #mylogo {
+            height: 5.7rem;
+            width: 5.7rem;
+        }
+        #sec1 {
+            margin-top: -0.5rem;
+        }
+        #f1-img {
+            margin-left: 1rem;
+            width: 21rem;
+            height: 12rem;
+        }
+        #f1-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 21.5rem;
+            height: 12.2rem;
+        }
+        #f1-para {
+            font-size: 1.3rem;
+            width: 21rem;
+            height: 13.5rem;
+            margin-left: 1rem;
+            text-align: left;
+        }
+        #f1-para:hover {
+            font-size: 1.32rem;
+        }
+        #sec-2 {
+            display: inline-block;
+            margin-top: -1rem;
+        }
+        #f2-para {
+            font-size: 1.3rem;
+            /* display: inline-block; */
+            width: 21rem;
+            height: 12rem;
+            margin-left: 1rem;
+            text-align: left;
+            height: 10rem;
+        }
+        #f2-para:hover {
+            font-size: 1.32rem;
+        }
+        #f2-img {
+            /* display: inline-block; */
+            /* margin-top: -5rem; */
+            margin-left: 1rem;
+            width: 21rem;
+            height: 12rem;
+        }
+        #f2-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 21.5rem;
+            height: 12.2rem;
+        }
+        #sec-3 {
+            margin-top: 1.5rem;
+            display: block;
+            /* margin-left: 0.rem; */
+        }
+        #f3-img {
+            margin-left: 1rem;
+            width: 21rem;
+            height: 12rem;
+        }
+        #f3-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 21.5rem;
+            height: 12.2em;
+        }
+        #f3-para {
+            font-size: 1.3rem;
+            width: 21rem;
+            margin-left: 1rem;
+            text-align: left;
+            /* height: 10rem; */
+        }
+        #f3-para:hover {
+            font-size: 1.32rem;
+        }
+        #sec-4 {
+            display: inline-block;
+            margin-top: 0rem;
+        }
+        #f4-para {
+            font-size: 1.3rem;
+            /* display: inline-block; */
+            width: 21rem;
+            margin-left: 1rem;
+            text-align: left;
+            height: 10rem;
+            /* width: 30rem; */
+        }
+        #f4-para:hover {
+            font-size: 1.32rem;
+        }
+        #f4-img {
+            /* display: inline-block; */
+            /* margin-top: -5rem; */
+            margin-left: 1rem;
+            width: 21rem;
+            height: 12rem;
+        }
+        #f4-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 21.5rem;
+            height: 12.2rem;
+        }
+    }
+    
+    @media (max-width:380px) {
+        .nav-features {
+            width: 5rem;
+            height: 14rem;
+        }
+        .navbar li {
+            margin-top: 1.5rem;
+            margin-left: 0rem;
+        }
+        .navbar li a {
+            font-size: 1.2rem;
+        }
+        .navbar li a:hover {
+            font-size: 1.23rem;
+        }
+        #text {
+            margin-left: 4.5rem;
+        }
+        #mylogo {
+            width: 5.4rem;
+            height: 5.4rem;
+        }
+        #f1-img {
+            margin-left: 1rem;
+            width: 18rem;
+            height: 10rem;
+        }
+        #f1-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 18.5rem;
+            height: 10.3rem;
+        }
+        #f1-para {
+            font-size: 1.3rem;
+            width: 18rem;
+            height: 13.5rem;
+            margin-left: 1rem;
+            text-align: left;
+        }
+        #f1-para:hover {
+            font-size: 1.32rem;
+        }
+        #sec-2 {
+            display: inline-block;
+            margin-top: -1rem;
+        }
+        #f2-para {
+            font-size: 1.3rem;
+            /* display: inline-block; */
+            width: 18rem;
+            height: 12rem;
+            margin-left: 1rem;
+            text-align: left;
+            height: 10rem;
+        }
+        #f2-para:hover {
+            font-size: 1.32rem;
+        }
+        #f2-img {
+            /* display: inline-block; */
+            /* margin-top: -5rem; */
+            margin-left: 1rem;
+            width: 18rem;
+            height: 10rem;
+        }
+        #f2-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 18.5rem;
+            height: 10.3rem;
+        }
+        #sec-3 {
+            margin-top: 1.5rem;
+            display: block;
+            /* margin-left: 0.rem; */
+        }
+        #f3-img {
+            margin-left: 1rem;
+            width: 18rem;
+            height: 10rem;
+        }
+        #f3-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 18.5rem;
+            height: 10.3em;
+        }
+        #f3-para {
+            font-size: 1.3rem;
+            width: 18rem;
+            margin-left: 1rem;
+            text-align: left;
+            /* height: 10rem; */
+        }
+        #f3-para:hover {
+            font-size: 1.32rem;
+        }
+        #sec-4 {
+            display: inline-block;
+            margin-top: 0rem;
+        }
+        #f4-para {
+            font-size: 1.3rem;
+            /* display: inline-block; */
+            width: 18rem;
+            margin-left: 1rem;
+            text-align: left;
+            height: 10rem;
+            /* width: 30rem; */
+        }
+        #f4-para:hover {
+            font-size: 1.32rem;
+        }
+        #f4-img {
+            /* display: inline-block; */
+            /* margin-top: -5rem; */
+            margin-left: 1rem;
+            width: 18rem;
+            height: 10.3rem;
+        }
+        #f4-img:hover {
+            /* margin-left: 1.5rem; */
+            width: 18.5rem;
+            height: 10.3rem;
+        }
+    }
+    
+    @media (max-width:335px) {
+        .nav-features {
+            margin-top: 0.5rem;
+        }
+        #text {
+            margin-left: 4rem;
+        }
+        .navbar {
+            height: 15rem;
+        }
+        #heading {
+            display: none;
+        }
+        #navpara {
+            margin-top: 3rem;
+            font-size: 1.3rem;
+        }
+    }
