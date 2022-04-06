@@ -201,6 +201,7 @@ nav ul li a:hover {
     /* justify-content: center; */
 }
 
+
 /* #f1-para:hover {
     text-decoration-line: underline;
     text-decoration-thickness: 0.1rem;
@@ -227,6 +228,7 @@ nav ul li a:hover {
     /* margin-left: 5rem; */
     text-align: center;
 }
+
 
 /* #f2-para:hover {
     text-decoration-line: underline;
@@ -293,6 +295,7 @@ nav ul li a:hover {
     text-align: center;
 }
 
+
 /* #f3-para:hover {
     text-decoration-line: underline;
     text-decoration-thickness: 0.1rem;
@@ -319,6 +322,7 @@ nav ul li a:hover {
     margin-left: 5rem;
     text-align: center;
 }
+
 
 /* #f4-para:hover {
     text-decoration-line: underline;
@@ -409,7 +413,7 @@ footer {
     color: rgb(65, 65, 65);
 }
 
-.about{
+.about {
     background-color: rgba(253, 190, 190, 0.3);
     margin-top: 40px;
     width: 100%;
@@ -417,7 +421,8 @@ footer {
     height: 65vh;
     margin-bottom: 0;
 }
-.p{
+
+.p {
     margin: 0;
     font-size: 5rem;
     justify-content: center;
@@ -426,7 +431,8 @@ footer {
     text-decoration-thickness: 1mm;
     left: 45%;
 }
-.img{
+
+.img {
     display: block;
     float: left;
     width: 32rem;
@@ -438,6 +444,7 @@ footer {
     border-radius: 1.9rem;
     box-shadow: 2.3px 2.3px 5px black;
 }
+
 .img:hover {
     width: 33rem;
     height: 16.5rem;
@@ -445,18 +452,21 @@ footer {
     box-shadow: 0.2rem 0.2rem 0.55rem purple;
     cursor: pointer;
 }
-.OSCC{
+
+.OSCC {
     display: block;
     float: right;
     width: 40%;
     margin-top: 10px;
     margin-right: 10rem;
 }
-.h1{
+
+.h1 {
     font-size: 3rem;
     font-weight: 100;
 }
-.p2{
+
+.p2 {
     margin-top: 60px;
     font-size: 1.4rem;
 }
